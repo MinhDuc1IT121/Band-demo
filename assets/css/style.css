@@ -97,7 +97,7 @@ float: right;
 #slider{
     margin-top: 46.5px;
     padding-top: 50%;
-    <img src="https://www.w3schools.com/bootstrap/chicago.jpg" alt="">  ;
+    background: url(/assets/img/Slider/slider1.jpg) top center / cover no-repeat  ;
     position: relative;
 }
 #slider-child{
